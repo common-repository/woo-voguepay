@@ -1,0 +1,444 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VoguePay WooCommerce\n"
+"POT-Creation-Date: 2019-03-31 21:24+0100\n"
+"PO-Revision-Date: 2019-04-01 14:18+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: woo-voguepay.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class.extracharge.php:70
+msgid "Extra Charge"
+msgstr "Supplément"
+
+#: includes/class.extracharge.php:74
+msgid "Yes"
+msgstr "Oui"
+
+#: includes/class.extracharge.php:75
+msgid "No"
+msgstr "Non"
+
+#: includes/class.extracharge.php:80
+msgid "Extra Charges Title"
+msgstr "Titre des frais supplémentaires"
+
+#: includes/class.extracharge.php:83
+msgid "Eg. Processing fee"
+msgstr "Par exemple. Frais de traitement"
+
+#: includes/class.extracharge.php:88
+msgid "Extra Charge Type"
+msgstr "Type de charge supplémentaire"
+
+#: includes/class.extracharge.php:92
+msgid "Fixed Amount"
+msgstr "Montant fixé"
+
+#: includes/class.extracharge.php:93
+msgid "Percentage added to total"
+msgstr "Pourcentage ajouté au total"
+
+#: includes/class.extracharge.php:99
+msgid "Extra Charge Amount"
+msgstr "Supplément Montant"
+
+#: includes/class.extracharge.php:102
+msgid "Eg. 10"
+msgstr "Par exemple. 10"
+
+#: includes/class.extracharge.php:106
+msgid "Extra Charge Percentage (%)"
+msgstr "Pourcentage de frais supplémentaires (%)"
+
+#: includes/class.extracharge.php:109
+msgid "Eg. 1.5"
+msgstr "Par exemple. 1.5"
+
+#: includes/class.extracharge.php:114
+msgid "Add extra charge to total amount less than (Optional)"
+msgstr ""
+"Ajouter des frais supplémentaires au montant total inférieur à (facultatif)"
+
+#: includes/class.extracharge.php:117
+msgid "Eg. 100"
+msgstr "Par exemple. 100"
+
+#: includes/class.extracharge.php:122
+msgid "Maximum extra charge that can be added (Optional)"
+msgstr "Supplément supplémentaire pouvant être ajouté (facultatif)"
+
+#: includes/class.extracharge.php:125
+msgid "Eg. 10.50"
+msgstr "Par exemple. 10.50"
+
+#: includes/class.extracharge.php:132
+msgid "If you like this plugin please leave us a rating."
+msgstr "Si vous aimez ce plugin s'il vous plaît laissez-nous une note."
+
+#: includes/class.extracharge.php:132
+msgid "Thanks!"
+msgstr "Merci!"
+
+#: includes/class.extracharge.php:187
+msgid "Extra charge"
+msgstr "Supplément"
+
+#: includes/class.extracharge.php:198
+msgid "capped"
+msgstr "coiffé"
+
+#: includes/class.voguepay.php:16
+msgid "Make Payment"
+msgstr "Effectuer le paiement"
+
+#: includes/class.voguepay.php:20
+msgid ""
+"Voguepay provide services for to accept online payments from local and "
+"international customers using Mastercard, Visa, Verve Cards and other "
+"payment options"
+msgstr ""
+"Voguepay fournit des services permettant d’accepter des paiements en ligne "
+"de clients locaux et internationaux utilisant Mastercard, Visa, Verve Card "
+"et d’autres options de paiement."
+
+#: includes/class.voguepay.php:72
+msgid "Enable/Disable"
+msgstr "Activer / désactiver"
+
+#: includes/class.voguepay.php:73
+msgid "Enable Voguepay"
+msgstr "Activer Voguepay"
+
+#: includes/class.voguepay.php:75
+msgid "Enable as a payment option on the checkout page."
+msgstr "Activer comme option de paiement sur la page de paiement."
+
+#: includes/class.voguepay.php:80
+msgid "VoguePay Merchant ID"
+msgstr "VoguePay Merchant ID"
+
+#: includes/class.voguepay.php:82
+msgid "Enter Your VoguePay Merchant ID Eg. 0123-093384"
+msgstr ""
+"Entrez votre identifiant de marchand VoguePay, par exemple. 0123-093384"
+
+#: includes/class.voguepay.php:87
+msgid "Demo Mode"
+msgstr "Le mode de démonstration"
+
+#: includes/class.voguepay.php:88
+msgid "Enable Demo Mode"
+msgstr "Activer le mode démo"
+
+#: includes/class.voguepay.php:90
+msgid ""
+"Demo mode enables you to test payments before going live. <br />Note that "
+"actual funds won't be recieved."
+msgstr ""
+"Le mode démo vous permet de tester les paiements avant de les mettre en "
+"ligne. <br /> Notez que les fonds réels ne seront pas reçus."
+
+#: includes/class.voguepay.php:95
+msgid "Store ID (Optional)"
+msgstr "ID de magasin (facultatif)"
+
+#: includes/class.voguepay.php:97
+msgid ""
+"Enter Your Store ID here, if you have created a unique store on your "
+"Voguepay."
+msgstr ""
+"Entrez votre ID de magasin ici, si vous avez créé un magasin unique sur "
+"votre Voguepay."
+
+#: includes/class.voguepay.php:102
+msgid "Title"
+msgstr "Titre"
+
+#: includes/class.voguepay.php:104
+msgid "Payment title on checkout page."
+msgstr "Titre du paiement sur la page de paiement."
+
+#: includes/class.voguepay.php:109
+msgid "Description"
+msgstr "La description"
+
+#: includes/class.voguepay.php:111
+msgid "Payment description on checkout page."
+msgstr "Description du paiement sur la page de paiement."
+
+#: includes/class.voguepay.php:113
+msgid "Make payment using your credit card"
+msgstr "Effectuer un paiement avec votre carte de crédit"
+
+#: includes/class.voguepay.php:117
+msgid "Payment Method"
+msgstr "Payment Method"
+
+#: includes/class.voguepay.php:123
+msgid "Redirect Method"
+msgstr "Méthode de redirection"
+
+#: includes/class.voguepay.php:124
+msgid "Inline Method"
+msgstr "Méthode en ligne"
+
+#: includes/class.voguepay.php:129
+msgid "Inline Load Message (Optional)"
+msgstr "Message de chargement en ligne (facultatif)"
+
+#: includes/class.voguepay.php:131
+msgid "This message shows when the checkout page is loading"
+msgstr "Ce message indique le chargement de la page de paiement."
+
+#: includes/class.voguepay.php:137
+msgid "Memo Description"
+msgstr "Mémo Description"
+
+#: includes/class.voguepay.php:139
+msgid "Eg. Payment for Order ID:: 001 - "
+msgstr "Par exemple. Paiement pour numéro de commande: 001 -"
+
+#: includes/class.voguepay.php:143
+msgid "Show website name"
+msgstr "Afficher le nom du site"
+
+#: includes/class.voguepay.php:144
+msgid "Show product name"
+msgstr "Afficher le nom du produit"
+
+#: includes/class.voguepay.php:149
+msgid "Customer Name"
+msgstr "Nom du client"
+
+#: includes/class.voguepay.php:150
+msgid "Send Customer Name to VoguePay"
+msgstr "Envoyer le nom du client à VoguePay"
+
+#: includes/class.voguepay.php:152
+msgid "If checked, the customer full name will be sent during transaction"
+msgstr "Si coché, le nom complet du client sera envoyé lors de la transaction"
+
+#: includes/class.voguepay.php:157
+msgid "Customer Email"
+msgstr "Email client"
+
+#: includes/class.voguepay.php:158
+msgid "Send Customer Email to VoguePay"
+msgstr "Envoyer un email client à VoguePay"
+
+#: includes/class.voguepay.php:160
+msgid "If checked, the customer email address will be sent during transaction"
+msgstr ""
+"Si coché, l'adresse email du client sera envoyée lors de la transaction"
+
+#: includes/class.voguepay.php:165
+msgid "Customer Phone"
+msgstr "Téléphone client"
+
+#: includes/class.voguepay.php:166
+msgid "Send Customer Phone to VoguePay"
+msgstr "Envoyer un téléphone client à VoguePay"
+
+#: includes/class.voguepay.php:168
+msgid "If checked, the customer phone will be sent during transaction"
+msgstr "Si coché, le téléphone du client sera envoyé pendant la transaction"
+
+#: includes/class.voguepay.php:173
+msgid "Billing Address"
+msgstr "Adresse de facturation"
+
+#: includes/class.voguepay.php:174
+msgid "Send Order Billing Address to VoguePay"
+msgstr "Envoyer l'adresse de facturation à VoguePay"
+
+#: includes/class.voguepay.php:176
+msgid "If checked, the order billing address will be sent during transaction"
+msgstr ""
+"Si coché, l'adresse de facturation de la commande sera envoyée lors de la "
+"transaction"
+
+#: includes/class.voguepay.php:191
+msgid ""
+"Voguepay doesn't support your store currency, kindly contact our support team"
+msgstr ""
+"Voguepay ne prend pas en charge la devise de votre magasin, veuillez "
+"contacter notre équipe de support."
+
+#: includes/class.voguepay.php:191
+msgid "here"
+msgstr "ici"
+
+#: includes/class.voguepay.php:233
+msgid "Invalid configuration, confirm your merchant ID"
+msgstr "Configuration invalide, confirmez votre identifiant marchand"
+
+#: includes/class.voguepay.php:234
+msgid "Merchant ID is incorrect"
+msgstr "L'identifiant du commerçant est incorrect"
+
+#: includes/class.voguepay.php:235
+msgid "Unable to complete payment request"
+msgstr "Impossible de compléter la demande de paiement"
+
+#: includes/class.voguepay.php:328 includes/class.voguepay.php:342
+msgid "Cancel order"
+msgstr "Annuler la commande"
+
+#: includes/class.voguepay.php:337
+msgid ""
+"Thank you for your order, please click the payment button below to proceed."
+msgstr ""
+"Merci pour votre commande, veuillez cliquer sur le bouton de paiement ci-"
+"dessous pour continuer."
+
+#: includes/class.voguepay.php:450
+msgid "Thank you for shopping with us."
+msgstr "Merci d'avoir fait du shopping avec nous."
+
+#: includes/class.voguepay.php:450
+msgid ""
+"Your payment transaction was successful, but the amount was paid to the "
+"wrong merchant account."
+msgstr ""
+"Votre transaction de paiement a abouti, mais le montant a été versé sur le "
+"mauvais compte marchand."
+
+#: includes/class.voguepay.php:450
+msgid "Your order is currently on-hold."
+msgstr "Votre commande est actuellement en attente."
+
+#: includes/class.voguepay.php:450
+msgid ""
+"Kindly contact us for more information regarding your order and payment "
+"status."
+msgstr ""
+"Veuillez nous contacter pour plus d'informations concernant votre commande "
+"et le statut de votre paiement."
+
+#: includes/class.voguepay.php:454
+msgid "Look into this order."
+msgstr "Regardez dans cet ordre."
+
+#: includes/class.voguepay.php:454 includes/class.voguepay.php:479
+msgid "This order is currently on hold"
+msgstr "Cette commande est actuellement en attente"
+
+#: includes/class.voguepay.php:454
+msgid "Reason: Possible fradulent attempt. Transaction ID:"
+msgstr "Raison: tentative frauduleuse possible. Identifiant de transaction:"
+
+#: includes/class.voguepay.php:475
+msgid "Thank you for shopping with us"
+msgstr "Merci d'avoir fait du shopping avec nous"
+
+#: includes/class.voguepay.php:475
+msgid ""
+"Your payment transaction was successful, but the amount paid is not the same "
+"as the total order amount"
+msgstr ""
+"Votre transaction de paiement a été effectuée avec succès, mais le montant "
+"payé n’est pas le même que le montant total de la commande."
+
+#: includes/class.voguepay.php:475
+msgid "Your order is currently on-hold"
+msgstr "Votre commande est actuellement en attente"
+
+#: includes/class.voguepay.php:475
+msgid ""
+"Kindly contact us for more information regarding your order and payment "
+"status"
+msgstr ""
+"Veuillez nous contacter pour plus d'informations concernant votre commande "
+"et le statut de votre paiement"
+
+#: includes/class.voguepay.php:479
+msgid "Look into this order"
+msgstr "Regardez dans cet ordre"
+
+#: includes/class.voguepay.php:479
+msgid "Reason: Amount paid is less than the total order amount"
+msgstr "Raison: le montant payé est inférieur au montant total de la commande"
+
+#: includes/class.voguepay.php:479 includes/class.voguepay.php:525
+msgid "Voguepay Transaction ID: "
+msgstr "ID de transaction Voguepay:"
+
+#: includes/class.voguepay.php:496
+msgid "Payment Via Voguepay"
+msgstr "Paiement via Voguepay"
+
+#: includes/class.voguepay.php:496
+msgid "Transaction ID: "
+msgstr "Identifiant de transaction:"
+
+#: includes/class.voguepay.php:498
+msgid "Payment was successful"
+msgstr "Paiement réussi"
+
+#: includes/class.voguepay.php:519
+msgid "Payment failed"
+msgstr "Paiement échoué"
+
+#: includes/class.voguepay.php:525
+msgid "Reason: "
+msgstr "Raison:"
+
+#: includes/class.voguepay.php:554
+msgid "Return to payments"
+msgstr "Retour aux paiements"
+
+#: includes/class.voguepay.php:568
+msgid "Voguepay Payment Gateway Disabled"
+msgstr "Passerelle de paiement Voguepay désactivée"
+
+#: woo-voguepay.php:49
+msgid "Voguepay settings"
+msgstr "Paramètres Voguepay"
+
+#: woo-voguepay.php:49
+msgid "Settings"
+msgstr "Réglages"
+
+#: woo-voguepay.php:110
+#, php-format
+msgid ""
+"Please enter your Voguepay Merchant ID <a href=\"%s\">here</a> to be able to "
+"use the payment plugin."
+msgstr ""
+"Veuillez saisir votre <a href=\"%s\"> ici </a> votre identifiant de marchand "
+"Voguepay pour pouvoir utiliser le plug-in de paiement."
+
+#. Plugin Name of the plugin/theme
+msgid "VoguePay WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/woo-voguepay/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "VoguePay plugin for WooCommerce."
+msgstr "Plugin VoguePay pour WooCommerce."
+
+#. Author of the plugin/theme
+msgid "kunlexzy"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://voguepay.com/3445-0056682"
+msgstr ""
